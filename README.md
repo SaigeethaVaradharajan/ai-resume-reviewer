@@ -18,9 +18,13 @@ Some of its features include
 - GitHub
 
 ## Screenshot of Application:
-
+* Need to Add
 
 
 ## How to Run Locally:
+1. **Clone this repo**
+```bash
+git clone https://github.com/SaigeethaVaradharajan/ai-resume-reviewer.git
+cd ai-resume-reviewer
 
  
