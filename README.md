@@ -18,7 +18,8 @@ Some of its features include
 - GitHub
 
 ## Screenshot of Application:
-* Need to Add
+![image](https://github.com/user-attachments/assets/36a5175a-4ae5-4686-8747-66c0fee82e92)
+
 
 
 ## How to Run Locally:
